@@ -250,8 +250,4 @@ While AHK v2 borrows from other languages, it also has some unique features that
 - **RegExMatch/RegExReplace**: These functions have roots in Unix `ed` and Perl, making AHK a great tool for text processing.
 - **AHK2EXE**: The ability to compile scripts into executables is one of AHK’s standout features. It’s incredibly user-friendly and something I wish more scripting languages had!
 
-## Final Thoughts
-
-AHK v2 is a great language that combines the effective syntax design from many different programming languages. Whether you’re coming from JavaScript, Python, or even Kotlin, you’ll find a lot of familiar concepts in AHK v2. At the same time, it has its own unique flavor of simplicity.
-
 Big thanks to [g.ahk](https://github.com/G33kDude), [Descolada](https://github.com/Descolada), and [Panaku](https://github.com/The-CoDingman) and everyone else who contributed to the original discussion.
