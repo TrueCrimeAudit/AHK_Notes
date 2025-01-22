@@ -254,4 +254,4 @@ While AHK v2 borrows from other languages, it also has some unique features that
 
 AHK v2 is a fantastic language that combines the best of many worlds. Whether you’re coming from JavaScript, Python, or even Kotlin, you’ll find a lot of familiar concepts in AHK v2. At the same time, it has its own unique flavor of simplicity. 
 
-**Shoutout**: Big thanks to [g.ahk](https://github.com/G33kDude), [Descolada](https://github.com/Descolada), and [Panaku](https://github.com/The-CoDingman) and everyone else who contributed to the original discussion.
+Big thanks to [g.ahk](https://github.com/G33kDude), [Descolada](https://github.com/Descolada), and [Panaku](https://github.com/The-CoDingman) and everyone else who contributed to the original discussion.
